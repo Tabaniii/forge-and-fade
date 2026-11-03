@@ -1,4 +1,4 @@
-# The Forge & Fade Co.
+# The Barber Company
 
 Next.js App Router, TypeScript, Tailwind CSS 4, and Lucide React. Responsive barbershop brand concept with locally hosted fonts and photography, accessible service tabs, expandable FAQs, WhatsApp booking, Google Maps directions, and a mobile booking dock.
 
@@ -20,7 +20,7 @@ The production build exports to `out/`. Serve this directory with any static hos
 
 ## Business content
 
-The requested Forge & Fade branding is a design concept. The user-supplied Maps link points to **The Barber Company — Setiabudi**. The page explicitly labels the address, public phone number, hours, rating, and reviews as reference content for that business.
+The address, public phone number, hours, rating, and reviews reference **The Barber Company — Setiabudi**.
 
 - Directions: https://maps.app.goo.gl/z7vcpYn62omqwt4T7
 - Address and telephone source: https://sesio.id/l/kota-jakarta-selatan/barbershop/the-barber-company-setiabudi-jl-taman-setia-budi-i-no5-rt3rw7-kuningan-karet-kecamatan-setiabudi-kota-jakarta-selatan-daerah-khusus-ibukota-jakarta-12920-8f404d03/
